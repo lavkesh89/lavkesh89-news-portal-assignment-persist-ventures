@@ -9,11 +9,10 @@ import Pagination from "./page/Pagination";
 
 function App() {
   const [currentPage, setCurrentPage] = useState(1);
-  const totalPages = 10; // Example total number of pages
+  const totalPages = 9; 
 
   const handlePageChange = (page) => {
     setCurrentPage(page);
-    // Add logic to fetch new data for the page change if necessary
   };
 
   return (
