@@ -3,5 +3,6 @@
 Home Page
 
 <br>
-![Screenshot 2024-06-22 123331](https://github.com/lavkesh89/lavkesh89-news-portal-assignment-persist-ventures/assets/131283151/80f77cc1-8032-41a6-ba84-dfebc28ee25c)
+![image](https://github.com/lavkesh89/lavkesh89-news-portal-assignment-persist-ventures/assets/131283151/4234fffb-1d7c-4a06-b230-5fe779b95834)
+
 with pagination
