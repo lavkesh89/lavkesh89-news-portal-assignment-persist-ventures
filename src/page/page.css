@@ -17,19 +17,17 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     font-size: 14px;
   }
-  
-  .pagination button:hover {
-    background-color: #ddd;
-    box-shadow: 0 4px 8px rgba(239, 29, 29, 0.1);
-  }
-  
+    
   .pagination button.active {
-    background-color: #007bff;
+    background-color: #087ffd;
     color: white;
-    border-color: #0071e9;
+    border-color: #0260c5;
     box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
   }
-  
+  .pagination button:hover {
+    background-color: #ddd;
+    box-shadow: 0 4px 8px rgba(116, 116, 116, 0.1);
+  }
   .pagination button:focus {
     outline: none;
     box-shadow: 0 0 0 3px rgba(6, 98, 196, 0.4);
